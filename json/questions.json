@@ -1,0 +1,214 @@
+{
+  "preguntas": [
+      {
+          "pregunta": "¿Cuál es el resultado del último teorema de Fermat?",
+          "opciones": [
+              "A. Hay infinitas soluciones para x^n + y^n = z^n cuando n > 2.",
+              "B. No existen soluciones enteras positivas para x^n + y^n = z^n cuando n > 2.",
+              "C. Se puede encontrar una solución usando números complejos.",
+              "D. El teorema se aplica solo para n = 2."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué describe la ecuación de Schrödinger?",
+          "opciones": [
+              "A. El comportamiento de partículas subatómicas en el espacio-tiempo.",
+              "B. La velocidad de una partícula en función de su energía.",
+              "C. La evolución temporal del estado cuántico de un sistema físico.",
+              "D. La relatividad general aplicada a la cuántica."
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Qué enzima es responsable de desenrollar el ADN durante la replicación?",
+          "opciones": [
+              "A. ADN ligasa",
+              "B. ARN polimerasa",
+              "C. Helicasa",
+              "D. Topoisomerasa"
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es el número de oxidación del azufre en el ácido sulfúrico (H₂SO₄)?",
+          "opciones": [
+              "A. +2",
+              "B. +4",
+              "C. +6",
+              "D. -2"
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+          "opciones": [
+              "A. 1789",
+              "B. 1776",
+              "C. 1804",
+              "D. 1815"
+          ],
+          "respuesta_correcta": "A"
+      },
+      {
+          "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+          "opciones": [
+              "A. Mario Vargas Llosa",
+              "B. Julio Cortázar",
+              "C. Gabriel García Márquez",
+              "D. Jorge Luis Borges"
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es el río más largo del mundo?",
+          "opciones": [
+              "A. Río Amazonas",
+              "B. Río Nilo",
+              "C. Río Yangtsé",
+              "D. Río Misisipi"
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué es el teorema de incompletitud de Gödel?",
+          "opciones": [
+              "A. Un teorema que demuestra que todos los sistemas formales son completos.",
+              "B. Un teorema que muestra la relación entre la teoría de números y la geometría.",
+              "C. Un teorema que afirma que ningún sistema formal puede ser a la vez completo y consistente.",
+              "D. Un teorema que describe la computabilidad de problemas NP."
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Qué representa la curva de Phillips?",
+          "opciones": [
+              "A. La relación entre la oferta y la demanda.",
+              "B. La relación entre la inflación y el desempleo.",
+              "C. La relación entre los tipos de interés y la inflación.",
+              "D. La relación entre la oferta monetaria y la inflación."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué filósofo planteó la alegoría de la caverna?",
+          "opciones": [
+              "A. Aristóteles",
+              "B. Sócrates",
+              "C. Descartes",
+              "D. Platón"
+          ],
+          "respuesta_correcta": "D"
+      },
+      {
+          "pregunta": "¿Cuál es la estrella más cercana a la Tierra?",
+          "opciones": [
+              "A. Alfa Centauri",
+              "B. Betelgeuse",
+              "C. El Sol",
+              "D. Sirio"
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Qué mide el número de Reynolds?",
+          "opciones": [
+              "A. La resistencia eléctrica de un conductor.",
+              "B. El flujo laminar o turbulento en un fluido.",
+              "C. La energía potencial de un sistema.",
+              "D. La capacidad térmica de un material."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Cuál es el significado de una tautología en lógica?",
+          "opciones": [
+              "A. Una proposición que siempre es falsa.",
+              "B. Una proposición que puede ser verdadera o falsa.",
+              "C. Una proposición que siempre es verdadera.",
+              "D. Una proposición sin sentido."
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Qué describe el efecto Dunning-Kruger?",
+          "opciones": [
+              "A. La tendencia de los expertos a subestimar sus conocimientos.",
+              "B. La tendencia de los individuos incompetentes a sobreestimar sus habilidades.",
+              "C. La relación entre la confianza y la habilidad real.",
+              "D. La tendencia a sobrevalorar el conocimiento de otros."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué tipo de gobierno es una teocracia?",
+          "opciones": [
+              "A. Un gobierno dirigido por la nobleza.",
+              "B. Un gobierno dirigido por el pueblo.",
+              "C. Un gobierno dirigido por una autoridad religiosa.",
+              "D. Un gobierno dirigido por una dictadura militar."
+          ],
+          "respuesta_correcta": "C"
+      },
+      {
+          "pregunta": "¿Cuál es la lengua más hablada en el mundo por número de hablantes nativos?",
+          "opciones": [
+              "A. Inglés",
+              "B. Hindi",
+              "C. Español",
+              "D. Chino mandarín"
+          ],
+          "respuesta_correcta": "D"
+      },
+      {
+          "pregunta": "¿Quién pintó 'La última cena'?",
+          "opciones": [
+              "A. Miguel Ángel",
+              "B. Leonardo da Vinci",
+              "C. Rafael",
+              "D. Sandro Botticelli"
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué compositor es conocido por su 'Sinfonía n.º 9' también llamada 'Oda a la Alegría'?",
+          "opciones": [
+              "A. Johann Sebastian Bach",
+              "B. Ludwig van Beethoven",
+              "C. Wolfgang Amadeus Mozart",
+              "D. Antonio Vivaldi"
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué es la ley de Moore?",
+          "opciones": [
+              "A. La ley que describe la eficiencia energética de los microchips.",
+              "B. La predicción de que el número de transistores en un chip se duplicará cada dos años.",
+              "C. La regla que afirma que el software se vuelve más complejo con el tiempo.",
+              "D. La teoría que predice el crecimiento exponencial de las redes sociales."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué protege el habeas corpus?",
+          "opciones": [
+              "A. El derecho a la libertad de expresión.",
+              "B. El derecho a no ser detenido sin juicio.",
+              "C. El derecho a la propiedad privada.",
+              "D. El derecho al voto."
+          ],
+          "respuesta_correcta": "B"
+      },
+      {
+          "pregunta": "¿Qué parte del cerebro está más asociada con la memoria?",
+          "opciones": [
+              "A. Cerebelo",
+              "B. Hipotálamo",
+              "C. Hipocampo",
+              "D. Lóbulo frontal"
+          ],
+          "respuesta_correcta": "C"
+      }
+  ]
+}
