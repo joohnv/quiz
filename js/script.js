@@ -16,7 +16,7 @@ function show_json() {
     // Limpiar los div anteriores
     question_div.innerHTML = "";
     options_div.innerHTML = "";
-    show_result.innerHTML = ""; // Asegúrate de que esto se ejecute
+    show_result.innerHTML = ""; 
 
     // Recorrer objeto por objeto el json
     if (current_question < questions.length) {
