@@ -16,7 +16,7 @@ function show_json() {
     // Limpiar los div anteriores
     question_div.innerHTML = "";
     options_div.innerHTML = "";
-    show_result.innerHTML = ""; // Asegúrate de que esto se ejecute
+    show_result.innerHTML = ""; 
 
     // Recorrer objeto por objeto el json
     if (current_question < questions.length) {
@@ -37,6 +37,16 @@ function show_json() {
         show_final_results();
     }
 }
+
+//mezclar las preguntas y opciones
+function randomArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]]; // Intercambiar
+    }
+    return array;
+}
+
 
 // Corregir las respuestas
 function check_answer(btn, correctAnswer) {
@@ -88,7 +98,15 @@ function show_final_results() {
 const load_json = async () => {
     let response = await fetch("./json/questions.json");
     let data = await response.json();
+
+    // Mezclar preguntas
     questions = data.preguntas;
+    randomArray(questions);
+
+    // Mezclar opciones de cada pregunta
+    questions.forEach(question => {
+        randomArray(question.opciones);
+    });
 
     show_json();
 }
